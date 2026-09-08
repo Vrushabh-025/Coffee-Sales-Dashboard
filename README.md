@@ -8,5 +8,7 @@ The dashboard includes key performance indicators such as Total Sales, Total Tra
  Key Insights
 
 1 Latte was the highest revenue-generating coffee, contributing approximately $26.9K in revenue.
+
 2 Americano with Milk recorded the highest transaction volume, with approximately 809 transactions.
+
 3 Espresso was the lowest-performing product by revenue.
